@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+
+
+canvas{
+   
+   border-radius: 10%;
+   border: 2px solid black; 
+   box-shadow: 5px 5px 5px #434242;
+   margin-top: 150px ;
+}
+h3{
+   font-family: cursive;
+   font-size: 18px;
+   
+}
+#start{
+   height: 40px;
+   width: 250px;
+   border-radius: 40px;
+   
+}
